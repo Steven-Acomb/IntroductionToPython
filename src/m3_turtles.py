@@ -150,7 +150,7 @@ stephen.forward(10)
 #
 #   You can COMMIT as often as you like.  DO FREQUENT COMMITS.
 #
-########################################################################
+#######################################################################
 
 # ----------------------------------------------------------------------
 # This line keeps the window open until the user clicks in the window:
